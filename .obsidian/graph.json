@@ -1,0 +1,37 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:GUI  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:Python  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.17001481481481,
+  "lineSizeMultiplier": 3.49297777777778,
+  "collapse-forces": false,
+  "centerStrength": 0.521777777777778,
+  "repelStrength": 7.93244444444444,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.8137713085498725,
+  "close": true
+}
