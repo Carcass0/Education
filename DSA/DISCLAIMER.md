@@ -1,0 +1,1 @@
+All of this is EXTREMELY not pythonic. Done deliberately to abstract and generalise.
